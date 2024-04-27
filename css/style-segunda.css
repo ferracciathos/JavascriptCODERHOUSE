@@ -1,0 +1,35 @@
+* {
+        background-color:gray;
+    }
+
+.mensaje-bienvenida {
+    color: black;
+    font-family: "Source Sans 3", sans-serif;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.hora-actual {
+    color: black;
+    font-family: "Source Sans 3", sans-serif;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.suma-carrito {
+    color: black;
+    font-family: "Source Sans 3", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 120px;
+}
+
+.no-tocar {
+    color: black;
+    font-family: "Source Sans 3", sans-serif;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 120px;
+}
